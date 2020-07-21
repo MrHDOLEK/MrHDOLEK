@@ -14,5 +14,6 @@ Backend developer
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![Boostrap](https://img.shields.io/badge/-Boostrap-311C87?style=flat-square&logo=boostrap&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 
+[![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=black&Color=white&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
