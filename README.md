@@ -6,7 +6,7 @@ Backend developer
 <br>
 ### Technologies 🚧
 [![PHP](https://img.shields.io/badge/-PHP-26b1e3?style=flat-square&logo=PHP&logoColor=white&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
-[![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=white&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
+[![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=white&link=https://github.com/MrHDOLEK/Wizualizacja_sortowan)](https://github.com/MrHDOLEK/Wizualizacja_sortowan)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 
