@@ -17,3 +17,5 @@ Backend developer
 [![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=black&Color=white&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/MrHDOLEK/)](https://github.com/MrHDOLEK/)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MrHDOLEK)](https://github.com/MrHDOLEK/github-contribution-stats/)
